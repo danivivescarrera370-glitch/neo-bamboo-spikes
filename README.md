@@ -1,6 +1,6 @@
 # Bamboo Spikes
 
-A Fabric mod that adds bamboo spikes - a trap block crafted from bamboo that damages anything that touches it.
+An **unofficial NeoForge port** that adds bamboo spikes - a trap block crafted from bamboo that damages anything that touches it.
 
 ## Features
 
