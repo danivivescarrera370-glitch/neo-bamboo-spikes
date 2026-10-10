@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+
+[[mods]]
+modId="neo_bamboo_spikes_justchubbygourd"
+version="1.0.0"
+displayName="Neo Bamboo Spikes"
+logoFile="assets/neo_bamboo_spikes_justchubbygourd/icon.png"
+authors="justfatlard (Original), justchubbygourd (NeoForge Porter)"
+description="An unofficial NeoForge port featuring waterloggable bamboo spike traps with a 5x fall damage multiplier."
+
+[[dependencies."neo-bamboo-spikes-justchubbygourd"]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."neo-bamboo-spikes-justchubbygourd"]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.11,26.1)"
+ordering="NONE"
+side="BOTH"

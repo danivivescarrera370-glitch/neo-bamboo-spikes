@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_up" },
+		"facing=down": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_down" },
+		"facing=north": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_north" },
+		"facing=south": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_south" },
+		"facing=east": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_west" },
+		"facing=west": { "model": "bamboo-spikes-justfatlard:block/bamboo_spikes_east" }
+	}
+}
