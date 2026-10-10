@@ -1,4 +1,4 @@
-# Bamboo Spikes
+# Neo Bamboo Spikes
 
 An **unofficial NeoForge port** that adds bamboo spikes - a trap block crafted from bamboo that damages anything that touches it.
 
